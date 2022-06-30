@@ -1,0 +1,572 @@
+# Fundamental Elements of Emergent Knowledge
+
+A> *“A new type of thinking is essential if mankind is to survive and move toward higher levels.”*
+A>
+A> Albert Einstein
+
+In our previous chapter I introduced the seven elements of Emergent Knowledge. This chapter discusses each of these in greater detail.
+
+You may notice that each element naturally leads on to the next.
+
+## 1. Clean Facilitation
+
+### What is Clean?
+
+Clean is a core aspect and method of working which permeates all the intervention work we perform in Emergent Knowledge. It has become a way to describe a manner of operating with a client, separate from the term Clean Language. Though, in referencing Clean Language it is now common to hear both terms used interchangeably. 
+
+3 Core Guidelines of Clean are:
+
+* Facilitators remove themselves from the clients process whenever and wherever possible.
+* Facilitators actions are performed so that any contamination of the client's process is kept to a minimum.
+* Facilitators only reference elements which have already been introduced by the client or to relationships with respect to those elements.
+
+The client must be allowed to come to their own truth of the matter they are attending to and not have anyone else's thoughts, interpretations and ideas pushed on to them.
+
+### A Brief History of Clean
+
+The concept of working Clean with a client was developed by David Grove during his work in the 1980s with his Clean Language technique. This technique was designed to help clients discover and develop their personal symbols and metaphors during psychotherapy sessions to aid in the resolution of a prior trauma.
+
+Clean Language utilised a particular set of questions which David had refined to reduce how much a facilitator could influence the client's process with their own interpretations, metaphors etc.
+
+These questions when used, predominantly included an aspect of the client's recent communication in order to maintain the client's attention on the developing awareness of their experience.
+
+For example a client states, "I'm upset about her decision."
+
+Clean Language responses to this could be:
+
+* *"And what kind of 'upset'?"*
+* *"And is there anything else about that 'upset'?"*
+* *"And what happens just before 'her decision'?"*
+* *"And where could 'her decision' come from?"*
+* *"And that's 'upset' like what?"*
+
+### Staying Clean in Session
+
+For our purposes here if you have not yet received any formal Clean Language training it is recommended that you just use the EK questions and instructions as presented, do not add-in anything else or take anything away, there is no need to over-think what is happening here or query the why's and wherefore's - the technicalities will come out later. Be assured that these questions are designed with the same purpose and usage as David designed the original Clean Language questions, thus protection and a client-centric purpose are evident.
+
+Newcomers, stick to the above advice and the 3 Core Guidelines of Clean and all will be fine. When you do find the opportunity, locate and visit a Clean Language training facility for training in this area.
+
+### More Information on Clean
+
+For more information on Clean Language there are many sources available - see [Appendix 1](#appendix1) for websites and books. I would highly recommend accessing this material to gain a solid grounding in the root source of Emergent Knowledge.
+
+Please note that although EK grew out of Clean Language, it is in a different category of process structures than that which Clean Language is predominantly known for, metaphor development and symbolic modelling. The questions and methods utilised in EK are still very much within what is considered to be Clean Language, non-invasive and non-presumptive as already presented.
+
+James Lawley offers some insight here about this notion of Clean Language, *"In my memory, David rarely referred to Clean Language as 'method', I think he saw it as more of a 'means'. The questions that were included in Clean Language got extended over the years, each time he needed a new 'means' to facilitate a new process."*
+
+Clean Language then, did not stop in 2002 when he started experimenting with Clean Space, this was simply a continuation and the same developmental shifts occurred with the advent of Emergent Knowledge.
+
+In EK there may be some use of the classic Clean questions to elicit more information about aspects of the client's world, however, these are not the driving force behind the processes.
+
+A> *“Clean Language is the art of asking questions so that you as a therapist do not contaminate or impose a model of the world upon your client.”*
+A>
+A> David Grove
+
+{pagebreak}
+
+## 2. Iteration
+
+X> ### Exercise
+X>
+X> Before we begin this section, I'd like for you to complete this short exercise: 
+X> [note that each question asked relates to the original answer in Step 1.] 
+
+1\. Write down something that you'd like to work on or explore.
+
+***
+2\. *"And, what do you know about that?"*
+
+***
+3\. *"And, what else do you know about that?"*
+
+***
+4\. *"And, what else do you know about that?"*
+
+***
+
+{pagebreak}
+
+5\. *"And, what else do you know about that?"*
+
+***
+6\. *"And, what else do you know about that?"*
+
+***
+7\. *"And, what else do you know about that?"*
+
+***
+8\. *"And, what do you know now?"*
+
+***
+
+Keep your answers close by as you will be referring back to these in the following section. 
+
+{pagebreak}
+
+### The Iterative Pattern of Emergence
+
+Through the development of Emergent Knowledge, David began to notice a structure to the language clients used as they ran his processes. Asking a simple question repeatedly, provided some very interesting results. David observed clients in the USA, UK and in France and found that even across cultures the structures proved to be consistent.
+
+To test his hypothesis he created a thought experiment where he limited his questions to the point that they would test if this pattern was observable and repeatable. The questions utilised were:
+
+D> *"What do you know about that?"* and then
+D> 
+D> *"And, what else do you know about that?"* asked five times and finally
+D> 
+D> *"And, what do you know now?"*
+
+David had noticed that each question brought with it a particular structure to the response. Here follows that pattern as observed; each response forms a new stage in the pattern.
+
+{pagebreak}
+
+### Stage 1 - Proclaim
+
+The client at A on their first question will **Proclaim** their problem.
+
+This is shown as B in the A to F Model.
+
+![Proclaim](images/Stage-1.png)
+
+C> Client: *"I'm always getting nagged at."*
+
+{pagebreak}
+
+### Stage 2 - Explain
+
+On the second iteration the client usually **Explains** what was said in Stage 1. This will most likely include their personal experience with the narrative of the problem.
+
+Here the client brings A and B into relationship with each other.
+
+![Explain](images/Stage-2.png)
+
+C> Client: *"She gives me a headache, with all this nagging and shouting."*
+
+{pagebreak}
+
+### Stage 3 - Reinforce and Expand
+
+With the third iteration, the client will **Reinforce** the explanation from Stages 1 and 2, although now the scope of their language will be moving towards the global nature of the problem. The client is **Expanding** and **Reinforcing** the original issue, providing evidence and structure to what is happening.
+
+In our model, the client has now encompassed A and B with the boundary C. The space of C contains the contextual information.
+
+![Reinforce](images/Stage-3.png)
+
+C> Client: *"I just want some peace and quiet to fix my bike up, but I'm told to clean up or that we don't have the money. It's a constant barrage of nagging!"*
+C>
+C> *"She is really annoying and it makes me angry and frustrated."*
+
+{pagebreak}
+
+### Stage 4 - The Wobble
+
+The fourth iteration starts with the reinforcement of Stage 3, but then we get **The Wobble**. At this point there is a pause, and doubt about the issue enters in. The facilitator waits for the doubt. It will usually be the opposite commentary to what we have just heard, this is referenced as being Not B or !B as it manifests as the inverse of B.
+
+![The Wobble](images/Stage-4.png)
+
+C> Client: *"I just really feel like leaving sometimes... but, then... well I suppose I'd miss her really."*
+C>  
+C> *"And, it's not always shouting to be honest. I remember when we got married that was a great time, why can't it still be like that?"*
+
+This opposite commentary enters in at the edge of C, from the space of D. For this to occur the boundary of C has to open up, like a portal, to this area of potentiality (D).
+
+{pagebreak}
+
+### Stage 5 - Crash and Burn
+
+As we move into the fifth iteration, the client really begins to heat up on the inside as their world-view is shifting. How can they be stating two binary opposite statements (B and !B) in the same answer during Stage 4?
+
+This stage was named **Crash and Burn**, as it is the stage where the prior structures of the issue are no longer valid and these 'collapse to the ground'. This may confuse and disorientate the client.
+
+![Crash and Burn](images/Stage-5.png)
+
+C> Client: *"I don't understand what is going on any more?"*
+C>
+C> *"We've had such a good life together, I wonder what the actual problem is?"*
+
+The boundary of C disintegrates in the presence of B and !B - those rules can no longer be true.
+
+{pagebreak}
+
+### Stage 6 - Out of the Ashes
+
+As we pass over into the sixth iteration, the edifice has collapsed, the structures that held the original issue together are no more - these fell away at Stage 5 - and **Out of the Ashes**, like a 'Phoenix', rises new knowledge and information.
+
+Due to the fusion of B and !B the boundary structure of C must now be adjusted to allow for this global rearrangement, it is here new ideas and cognitions occur, this is Emergence E.
+
+![Out of the Ashes](images/Stage-6.png)
+
+C> Client: *"We always planned to be together forever. I know we can make this work, if we work together."*
+C>
+C> *"This is more about our love for each other and doing what makes us both happy!"*
+
+{pagebreak}
+
+### Stage 7 - The Pause
+
+The **Pause** or moment to consolidate – this is the 7th or zero point. Here the client absorbs the learning from Stage 6.
+
+Once consolidated, we can start again and begin a new set of processing on this new evolved information.
+
+Everything comes back to A and is re-embodied. 
+
+![The Pause and Consolidation](images/Stage-7.png)
+
+C> Client: *"I feel good about this now! There's still things to think about and plan, but I'm good."*
+C>
+C> *"Gawd, I do love that girl!"*
+
+{pagebreak}
+
+### Learning About Your Learning
+
+This seven stage process is an epistemological exercise, one based on knowledge. As each stage is passed through, the client experiences another level of knowing about their issue.
+
+As humans, we're generally unable to 'not know' something, so as soon as we have expressed our knowledge or our understanding of something, we become open to new knowledge and understanding developing about all that has preceded.
+
+Thus, we have an unending, infinite flow of knowingness opening up before us, if we care to question what is there.
+
+The summarised structure of this emergent flow discovered and proposed by David was as follows:
+
+1. Proclaim
+2. Explain
+3. Reinforce and Expand
+4. The Wobble
+5. Crash and Burn
+6. The Phoenixity - Out of the Ashes
+7. The Pause
+
+{pagebreak}
+
+### Over-Drive
+
+This iteration of a simple question was given the term Over-Drive by David, it is possible that one may perform any of the following three Over-Drives:
+
+* Over-Drive the client (A)
+* Over-Drive the issue or current focus (B)
+* Over-Drive the as yet uncharted space in and around A and B (C)
+
+Some of the simplest questions to do this in these three categories are:
+
+* A - What do you know?
+* B - What does that know?
+* C - What is between you and that?
+
+These three sets can be further explored in more detail when utilising the Navigation techniques later. Gathering information from these external sources of B and C is of great benefit to the client, it is from these perspectives that we may more likely see new information enter in from D. In some ways A already knows what they know. It is the utilisation of these alternative viewpoints that help in bringing us new understandings.
+
+It can be helpful to let the client know that, as well as verbally responding, they can also be representing their answers to the questions. This may be through writing down, drawing or any other way they wish to do it.
+
+However, if a client wishes to, they do not have to verbalise anything during the session and they can just represent their answers. This is very useful if a client would like a content-free session. This is where a client may work with a therapist without ever telling them what the session is actually about, say for instance the material was embarrasing or just too difficult to talk about.
+
+{pagebreak}
+
+### Check your Answers
+
+Have a look through your answers from the exercise at the beginning of this chapter. Look to see if this emergent pattern is observable in your responses, note that in a short exercise like this the pattern may not be so visible, this is ok.
+
+Are you able to locate 'The Reinforcement'?
+
+Are you able to locate 'The Wobble'?
+
+Are you able to locate 'The Phoenixity', the moment of Emergence?
+
+{pagebreak}
+
+## 3. Reinterpretation
+
+### The Download and Upload
+
+The Pause or 7th stage is a key step in the EK process. It is here that the client has the opportunity to consolidate their system with respect to the information that has just emerged.
+
+Once this has occurred the client is guided to a new Stage 1, where they review and gain a new interpretation of how things are for them now.
+
+As the client is now restating their issue here, this is a new **Proclaim Stage**.
+
+When clients are answering and writing down answers there are two parts to this stage:
+
+1. Download
+2. Upload
+
+{pagebreak}
+
+#### Download
+
+The first is the Download step, where the facilitator asks the client:
+
+C> *"And, what do you know now?"*
+
+This can be seen metaphorically as a **download** from the clients mind or consciousness into a verbal form to share with the facilitator.
+
+![](images/Download.png)
+
+{pagebreak}
+
+#### Upload
+
+We then have the Upload step, where the facilitator instructs the client:
+
+C> *"Ok, now put all that on there"*
+
+indicating that the client should represent their answer on paper.
+
+This may be thought of as an **uploading** process from the client to their paper.
+
+![](images/Upload.png)
+
+Once the client has represented their answer on the paper, the client is usually directed to place this information (the paper) where it belongs in relationship to everything else (see Section 5. Navigation). 
+
+Notice that the client's understanding of their issue goes through at least two transformations to get onto the paper.
+
+{pagebreak}
+
+### Representation as a Transformation
+
+There are many forms in which our inner experience can be represented, the most recognised of these, as mentioned, is our verbal description.
+
+A simple verbal transformation can be achieved by having the client sum up their understanding. Above, we have used David's *"And what do you know now?"* to aid in this. Another option could be:
+
+* *"And how would you describe that now?"*
+
+Any attempt of a transformation of our inner experience provides us with a new analysis of what we are experiencing. This reanalysis increases our understanding of our experience.
+
+There is a simple law at work here, and that is:
+
+C> **To increase your understanding about something, connect with it.**
+
+Through the additional utilisation of writing, drawing, space and objects, we open up our mind to a multitude of concepts and constructs that are not readily available through language alone - along with this we have the ability to utilise distances, angles, directions, colour, shape, texture and form to bring even more depth to our awareness of what we are attending to. 
+
+This becomes a very rich experience for the client and offers multiple opportunities for their system to reinterpret their issue and their world.
+
+Interestingly the word 'describe' comes from the *Latin describere, meaning de- ‘down’ + scribere ‘write’*, literally 'to write down'.
+
+{pagebreak}
+
+## 4. Representation and Space
+
+### Writing about and Drawing the Inner Experience
+
+This is done by having the client write or draw down their thoughts, feelings and experiences on paper, and then place these in the space around them, in relationship to themselves and previous papers or objects.
+
+They can represent what is happening for them internally in whatever way they feel is appropriate; the availability for a varied use of colour, shape, language and symbols is recommended and encouraged.
+
+In this manner, our inner worlds may be mapped externally by overlaying them into a room or a landscape. This has the useful effect of objectifying an internal phenomenon into a real geographic space, from which further information may be gained.
+
+### Materials
+
+Using these techniques only requires a pen and paper, though the following may be acquired to allow you and your clients the maximum choice when expressing yourselves through writing, drawing and other creative expressions:
+
+* A selection of pencils, crayons, coloured markers and pens
+* A selection of paper sizes A3, A4 and A5
+* Post It™ notes – various colours and sizes
+* Flip / easel chart + paper
+* Sellotape™ / Scotch Tape™ and Blue tak™ / Poster Putty™
+* A selection of coloured wool or string
+
+### Objects
+
+It has been observed that during sessions, clients can notice particular objects inside and outside the room which are 'perfect' representations of their ideas. Go with the client's flow and allow them to use these inferred significances as required. A client may also choose to utilise modelling clay to create a personal representation.
+
+![](images/objects.png)
+
+{pagebreak}
+
+### Space
+
+The client can utilise all the space around them: the room, the windows, what is inside and outside, the table, floor, ceiling, walls - everything is available for placing or viewing the materials.
+
+![](images/Room.png)
+
+Be warned: you need to prepare yourself for sticky blue marks and sellotape marks spreading around your room and furniture! The use of Post It™ notes limits this.
+
+If you are holding reservations about this happening, choose a different room to run your sessions in, as these reservations shouldn't be forced upon your client.
+
+{pagebreak}
+
+## 5. Navigation
+
+The client's use of space is very personal and their use and interaction of it elicits the deeper structures of their issue.
+
+To initiate this, have the client place their completed representation in space, by asking them,
+
+C> *"Okay, now place that where it belongs."*
+
+or 
+
+C> *"Okay, and that belongs where?"*
+
+If there are already papers and information in the room, instruct,
+
+C> *"Okay, now place that where it belongs in relation to everything else."*
+
+or 
+
+C> *"Okay, and in relation to everything else, that belongs where?"*
+
+For first time clients this can be a strange experience and they may be a little confused by this, as it may not be something they have ever considered or done before.
+
+If the client has been given the time to figure out for themselves their spatial understanding and they are still having trouble you can begin to query if the paper 'should be close to them or far away?', 'should they be facing it or away from it?', 'should it be at the same level or above or below them?'.
+
+In this way they will soon get to grips with what is happening for them and be able to place the paper where it needs to go. Later on, the client may change where the first few landed once they start to 'get in the groove'.
+
+David created a full set of questions to kick-start a session off with, which he called *'The Clean Start'*; this process can elicit lots of information and requires training to deliver it correctly. For our purposes here, it is enough to have the client gain an understanding of their perceptual space. They will through further navigations, soon get into the flow.
+
+If we relate this process of placing papers, representations of the clients ideas and considerations of their life, to the A-F Model we see that we are creating multiple B's.
+
+### Reference the Current Viewpoint
+
+It is also possible to place representations of where A is when information comes from the 'Space of A', this is usually done by asking the client *'And what could this space be called?'*, the client then writes down the name and places it where they have been positioned. Later in the presented processes this will shown as 'Reference Viewpoint' or 'Reference the Space of A'.
+
+### Psychoactivity
+
+Once a client has started placing their representations (papers) in the space around them, an interesting effect begins to occur. Through the placement of the papers the client will start to become aware of the developing relationships to the other papers, the surrounding space and themselves.
+
+![](images/Network.png)
+
+They have now started the process of literally mapping out their inner landscape. The moment they become aware of these developing relationships is when they and their landscape have become 'psychoactive'.
+
+Just as the first explorers had no maps, neither do we and neither will the client. However, we do have a valuable set of intervention strategies to aid in this exploration and thus assist in this navigational and exploratory issue.
+
+It is through the continued, iterative application of these strategies that solutions by the client may be found. These 'navigational' solutions are understood at a different level of thinking than the original problem was stated at.
+
+Moving around a network of spaces, each representing aspects of the client and their life, offers the client multiple perspectives or viewpoints on their world. David gave the term **Meta-Drive** to the action of moving the position of the client (A) or the locations of the network information (B) - this aspect is detailed later.
+
+### More on the Over-Drive
+
+Previously we looked at how the Over-Drive questions explored three areas in the client's ABC world. In this section as the client begins to move around their space, with multiple named spaces for A and potentially multiple B spaces, we can begin to have the client look at the relationships and bring these unique viewpoints into communication with each other.
+
+For instance, we may ask the client *"And, what do you know about that from here?"* referencing their original statement. 
+
+Later though, as the clients spatial landscape begins to unfold, we could ask the same question about a previous space the client was in. Let us say the client had named a previous space "My Old Self" and the client was stood in a new position. We could ask some of the following questions:
+
+* *"And what does 'My Old Self' know about where you are now?"*
+* *"And what do you know about "My Old Self" now?"*
+* *"And what does 'My Old Self' know about that (B)?"*
+
+![The Client Explores Each Node](images/6nodes.png)
+
+As you can see through this technique we are able to create and explore any link between any two nodes in the developing network. This is useful for: checking in on how the client is doing, developing new sources of information or summing up what has occurred so far. A common technique is to have the client create six nodes in their network and then initiate the process of having each node explore every other node.
+
+Once a client has moved away from a node (space), we can have them return to that space later and check in with what they know now in that space, it is here where we may begin to witness the evolution of the client's system in real time.
+
+### Clean Space
+
+The use of 'Representation' and 'Space', along with 'Navigation', constitute the basic ideas of David Grove's Clean Space methodology.
+
+See [Appendix 1](#appendix1) for further resources on learning more about this very useful and powerful set of techniques.
+
+Navigation of the client's inner world in this manner is a truly rewarding process; new information and new insights will nearly always emerge. To accomplish this navigation, the next ingredient to be added was the 'Algorithm'.
+
+{pagebreak}
+
+X> #### Clean Space Exercise
+X>
+X> Follow the algorithm below to experience a basic Clean Space process:
+
+1\. On a piece of paper write down something that you'd like to work on or explore
+
+2\. Place that paper where it belongs
+
+3\. Position yourself in relationship to that paper
+
+4\. Ask, *"And, what do I know about that from here?"* (the original issue)
+
+5\. Write down your answer on a new piece of paper
+
+6\. Now, place the paper where it belongs in relationship to everything else
+
+7\. Ask, *"And, what could this space be called?"* (Spaces from steps #3 and #9)
+
+8\. Write down this name on a new paper and place it where you are
+
+9\. Move to a new space (you may also alter the direction you are facing)
+
+10\. Repeat Steps #4 to #9 five more times
+
+11\. Return to the original space
+
+12\. Ask, *"And from here, what do I know now?"*
+
+This is presented as a self-facilitated process, it may be adapted to being facilitator led.
+
+{pagebreak}
+
+### Personal Review of Clean Space Exercise
+
+Write down your experience as the client:
+
+***
+
+***
+
+***
+
+Write down your experience as the facilitator:
+
+***
+
+***
+
+***
+
+And what do you know now?
+
+***
+
+***
+
+***
+
+## 6. Algorithms
+
+The basic processes of Emergent Knowledge can be used in isolation when required in therapy and coaching, or they can be grouped together into specific algorithms to be run as integrated therapeutic processes.
+
+This is one reason David gave each of the functions being performed a particular name: 
+
+C> Upload, Download, Over-Drive, Meta-Drive etc. 
+
+When using each of these functions integrated with the A-F Model opens us up to many choices and opportunities when developing algorithms.
+
+Each algorithm may be given a full definition by providing a formula consisting of a set of basic processes. These formulas can be applied to any aspect of the client's ABC world, so questions can be asked of:
+
+* the client (A)
+* the issue (B), or 
+* anything else which the client is aware of (C)
+
+The focus of the questions remain the same for a full round of six iterations. It is recommended to keep each round as simple as possible, enabling the client to add their own complexity.
+
+For instance the simple Clean Space exercise from the previous section may be formulated as:
+
+1. Create Mission Statement (B)
+2. Meta-Drive A (run this section six times)
+	a. Download from A
+	b. Upload from A to new paper and place in space 
+	c. Reference Viewpoint A
+	d. Move A to a new space
+3. Download from original A Space - Reinterpretation from the original space
+
+In this simple exercise we only asked one question from each space, later when asking questions in sets of six [+1] in each space, the client's language in each space may begin to reflect in a fractal/holographic nature the Iterative Pattern of Emergence.
+
+![](images/fractal.png)
+
+This is a wonder to observe and is also a rock to hold onto, for when the client is in the 4th and/or 5th stages and is beginning to really ‘heat up’, as a traditional therapist we may of attempted to shift them out of the problem, but as an Emergent Knowledge facilitator we stay with the algorithm. Knowing that, as they continue to move on, their liberation awaits them in the 6th stage.
+
+### Key Principles
+
+Some of the principles utilised in developing EK algorithms are:
+
+* Locate and emerge existing and new viewpoints within the system
+* Provide knowledge of the system from these viewpoints
+* Determine relationships between the viewpoints
+* Discover what exists in the spaces in between the viewpoints
+* Balance of the system: grant equal value and significance to each viewpoint 
+
+New understanding occurs when the client sees their issue in a new light. This occurs in the present moment. 
+
+## 7. Present Time
+
+Each of the questions and instructions given in EK processing are delivered in the present tense. We are looking to have the client access the required information in this moment.
+
+You will recognise that the use of the word 'Now' is prominent, especially during the client's reinterpretation at the Proclaim (Recognition) stage, #1 in the Iterative Pattern of Emergence.
+
+The client makes their changes in the here and now, so our intention is to bring the client to a moment in the here and now, where conditions are such that systemic change may occur for the client in a way that is congruent with the client's developing world-view in the current moment.
+
+To enable this, it is considered in EK that the solutions to the client's problems have to come from the client. Anything that we as facilitators, or just as friendly advice-givers, attempt to add in, is likely to be dismissed or even opposed. To eliminate this, we work in a Clean manner with the client.

@@ -1,0 +1,30 @@
+010 Quote.txt
+020 Emergent Processing.txt
+030 Acknowledgments.txt
+040 Credits.txt
+050 Welcome to this Guide.txt
+060 THEORY I.txt
+070 What is the Eternal Moment of Now.txt
+080 What is Emergent Knowledge.txt
+090 Fundamental Elements of Emergent Knowledge.txt
+100 Role of the Facilitator and Client.txt
+110 PRACTICAL.txt
+120 Process 1.txt
+130 P1 Example Session.txt
+140 Process 2.txt
+150 P2 Example Session.txt
+160 THEORY II.txt
+170 Redefining the Po6.txt
+180 Defining the Eternal Moment of Now.txt
+190 PRACTICAL II.txt
+200 Process 3.txt
+210 P3 Example Session.txt
+220 Process 4.txt
+230 P4 Example Session.txt
+240 THE FUTURE.txt
+250 Moving On.txt
+260 Emergence.txt
+270 Appendix 1.txt
+280 Appendix 2.txt
+290 Appendix 3.txt
+
