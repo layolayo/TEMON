@@ -251,7 +251,7 @@ Some of the simplest questions to do this in these three categories are:
 * B - What does that know?
 * C - What is between you and that?
 
-These three sets can be further explored in more detail when utilising the Navigation techniques later. Gathering information from these external sources of B and C is of great benefit to the client, it is from these perspectives that we may more likely see new information enter in from D. In some ways A already knows what they know. It is the utilisation of these alternative viewpoints that help in bringing us new understandings.
+These three sets can be further explored in more detail when utilising the Navigation techniques . Gathering information from these external sources of B and C is of great benefit to the client, it is from these perspectives that we may more likely see new information enter in from D. In some ways A already knows what they know. It is the utilisation of these alternative viewpoints that help in bringing us new understandings.
 
 It can be helpful to let the client know that, as well as verbally responding, they can also be representing their answers to the questions. This may be through writing down, drawing or any other way they wish to do it.
 
@@ -405,7 +405,7 @@ For first time clients this can be a strange experience and they may be a little
 
 If the client has been given the time to figure out for themselves their spatial understanding and they are still having trouble you can begin to query if the paper 'should be close to them or far away?', 'should they be facing it or away from it?', 'should it be at the same level or above or below them?'.
 
-In this way they will soon get to grips with what is happening for them and be able to place the paper where it needs to go. Later on, the client may change where the first few landed once they start to 'get in the groove'.
+In this way they will soon get to grips with what is happening for them and be able to place the paper where it needs to go.  on, the client may change where the first few landed once they start to 'get in the groove'.
 
 David created a full set of questions to kick-start a session off with, which he called *'The Clean Start'*; this process can elicit lots of information and requires training to deliver it correctly. For our purposes here, it is enough to have the client gain an understanding of their perceptual space. They will through further navigations, soon get into the flow.
 
@@ -413,7 +413,7 @@ If we relate this process of placing papers, representations of the clients idea
 
 ### Reference the Current Viewpoint
 
-It is also possible to place representations of where A is when information comes from the 'Space of A', this is usually done by asking the client *'And what could this space be called?'*, the client then writes down the name and places it where they have been positioned. Later in the presented processes this will shown as 'Reference Viewpoint' or 'Reference the Space of A'.
+It is also possible to place representations of where A is when information comes from the 'Space of A', this is usually done by asking the client *'And what could this space be called?'*, the client then writes down the name and places it where they have been positioned. Later in the presented processes this will be shown as 'Reference Viewpoint' or 'Reference the Space of A'.
 
 ### Psychoactivity
 
