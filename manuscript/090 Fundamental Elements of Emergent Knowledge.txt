@@ -17,7 +17,7 @@ Clean is a core aspect and method of working which permeates all the interventio
 3 Core Guidelines of Clean are:
 
 * Facilitators remove themselves from the clients process whenever and wherever possible.
-* Facilitators actions are performed so that any contamination of the client's process is kept to a minimum.
+* Facilitators' actions are performed so that any contamination of the client's process is kept to a minimum.
 * Facilitators only reference elements which have already been introduced by the client or to relationships with respect to those elements.
 
 The client must be allowed to come to their own truth of the matter they are attending to and not have anyone else's thoughts, interpretations and ideas pushed on to them.
