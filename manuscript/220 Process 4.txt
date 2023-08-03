@@ -77,7 +77,7 @@ The next step is bringing the client's attention into their past. Here we use th
 
 C> *"And, where have you been?"*
 
-Depending on the clients experience with the process, you could use:
+Depending on the client's experience with the process, you could use:
 
 * *"And in the past, where have you been?"* or
 * *"And before now, where have you been?"* or
