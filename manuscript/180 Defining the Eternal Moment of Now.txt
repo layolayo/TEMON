@@ -240,7 +240,7 @@ Below are some examples for each of the expressions. The numerical figures chose
 
 **Oppose** is a determined flow outwards initiated by the destination node 
 
-* The intention is to stop something (i.e. an idea) coming in from source (owner of that idea)
+* The intention is to stop something (i.e. an idea) coming in from the source (owner of that idea)
   * 25% : Disinterest in the idea
   * 50% : Dismissal, dejection, openly averse towards the idea
   * 75% : Hostility towards the owner in order to stop the idea
@@ -250,7 +250,7 @@ Below are some examples for each of the expressions. The numerical figures chose
 
 **Expose** is a determined flow inwards initiated by the destination node
 
-* The intention is to start something (i.e. information) coming out from source (owner of that information)
+* The intention is to start something (i.e. information) coming out from the source (owner of that information)
   * 25% : Interested to know the information
   * 50% : Requesting, negotiating to get the information
   * 75% : Demanding to have the information from the owner
