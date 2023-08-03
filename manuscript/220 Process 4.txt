@@ -294,7 +294,7 @@ For instance, the extent of our vocabulary provides us with the communicating po
 
 Examples of this are those people who have studied and gained a  knowledge of music, art, craftsmanship, architecture, etc. Their experience of a particular related item and that of another person without a similar level of understanding, will be very different - the aspects of appreciation will be different.
 
-I often make the point, when training NLP and EK, that one of the purposes of the training and learning of the models is that as we become more and more aware of our inner structures our self-awareness or the intelligence of ourselves increases, thus offering us more control in life.
+I often make the point, when training NLP and EK, that one of the purposes of the training and learning of the models is that as we become more and more aware of our inner structures, our self-awareness or the intelligence of ourselves increases, thus offering us more control in life.
 
 We are teaching ourselves the finer and finer distinctions we have about our life and human connectivity. The fewer distinctions we have, the more everything is the same, and our ability to make valued and effective judgements is impeded.
 
